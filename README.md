@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=xfzGZB4HhEE&t=10450s
 
 ### if you have any suggestions please do let me konw
 
-### this project was made for pratice so there might pe some bugs
+### this project was made for pratice so there might be some bugs
 
 # thank you
